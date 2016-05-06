@@ -14,10 +14,9 @@ Onboarding is not just a necessary evil for new hires and their teams: according
   - people on your team, what they do, and how to contact them
   - people who frequently work with your team
 - Create an [Org Cheat Sheet](org-cheat-sheet.md) - how your department fits into the company as a whole
-- Gather documentation on codebase to provide an informational overview
 - Identify company required training
   - Have materials collected
-  - Know about how much time each training session lasts
+  - Know about how much time each training session lasts, in order to plan it into the week
 
 
 ## Before First Day
@@ -32,7 +31,6 @@ Onboarding is not just a necessary evil for new hires and their teams: according
     - required programs installed
     - working connection to printers
     - working connection to email
-
   - Dedicated phone &amp; extension
 3. Contact employee to soothe first-day jitters
   - Who to contact upon arrival
@@ -55,7 +53,8 @@ It's nice to have a welcome gift of some sort, although not required
   - get to know each other
   - talk about the team and project work in the near term
   - talk about management styles and work environment accommodations
-4. Follow the First Week Agenda your team created
+4. Follow the First Week Agenda your team created for pairing, mentoring, and training
+5. Dedicate time to read the team [Dev Standards](dev_standards/basic_web_standards.md) and get familiar with codebase
 
 It's nice to have current employees offer to take new teammate out for lunch, but not required. Let your new staffer decide based on their comfort level rather than scheduling it.
 
