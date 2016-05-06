@@ -18,3 +18,4 @@ That said, it's also important to practice good code standards which may update 
 ### [Git Standards](git_standards.md)
 ### [HTML Standards](html_standards.md)
 ### [JavaScript Standards](javascript_standards.md)
+### [Performance Standards](performance_standards.md)
